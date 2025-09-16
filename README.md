@@ -110,10 +110,6 @@ DevOps and Backend enthusiast focused on building robust, scalable web applicati
 
  
 
-## Activity Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishal82004&theme=react-dark&area=true&hide_border=true" alt="GitHub Activity Graph" />
-</p>
 
 
