@@ -1,22 +1,23 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7E2&center=true&vCenter=true&width=700&lines=DevOps+%26+Backend+Engineer;Cloud+%7C+Automation+%7C+Observability;Building+robust+%26+scalable+systems+%F0%9F%9A%80;Always+Learning+New+Things" alt="Typing Intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=00F7E2&center=true&vCenter=true&width=700&lines=DevOps+%26+Backend+Engineer;Cloud+%7C+Automation+%7C+Observability;Building+robust+%26+scalable+systems;Always+Learning+New+Things" alt="Typing Intro" />
 </p>
 
 
 
-# Hi there 👋, I'm Vishal
+# Hello, I'm Vishal
 
 Welcome to my GitHub profile!
 
+---
 
-## 🚀 About Me
+## About Me
 DevOps and Backend enthusiast focused on building robust, scalable web applications and automation workflows. I love learning new technologies and delivering impactful solutions that make a difference.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
 <div align="center">
   
@@ -26,10 +27,10 @@ DevOps and Backend enthusiast focused on building robust, scalable web applicati
 
 ---
 
-## 📂 Featured Repositories
+## Featured Repositories
 
 <details>
-  <summary><strong>🔥 socialmedia-backend</strong></summary>
+  <summary><strong>▶ socialmedia-backend</strong></summary>
   <div align="center">
     <p>A scalable microservice for a social media backend, designed for containerized deployment and cloud infrastructure.</p>
     <br/>
@@ -38,7 +39,7 @@ DevOps and Backend enthusiast focused on building robust, scalable web applicati
 </details>
 
 <details>
-  <summary><strong>🚀 DevOps-Project-Zomato</strong></summary>
+  <summary><strong>▶ DevOps-Project-Zomato</strong></summary>
   <div align="center">
     <p>A production-grade, end-to-end CI/CD pipeline for a Zomato-like application, featuring automated builds, testing, and deployment, with integrated monitoring using Prometheus and Grafana.</p>
     <br/>
@@ -48,7 +49,7 @@ DevOps and Backend enthusiast focused on building robust, scalable web applicati
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   
@@ -71,7 +72,7 @@ DevOps and Backend enthusiast focused on building robust, scalable web applicati
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vishal-b-2029bb257/" target="_blank">
@@ -89,19 +90,19 @@ DevOps and Backend enthusiast focused on building robust, scalable web applicati
 
 ---
 
-## ✨ Extras
+## Extras
 
-- 🔭 Currently working on: FastAPI, DevOps, and cloud infrastructure projects.
-- 🌱 Always learning: Kubernetes, cloud-native tooling, observability, and automation.
-- 📬 Open to collaborations and freelance opportunities.
-
----
-
-
+- Currently working on: FastAPI, DevOps, and cloud infrastructure projects.
+- Always learning: Kubernetes, cloud-native tooling, observability, and automation.
+- Open to collaborations and freelance opportunities.
 
 ---
 
-## 🎖️ GitHub Profile Trophies
+
+
+---
+
+## GitHub Profile Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=vishal82004&theme=onedark&no-frame=true&no-bg=true&margin-w=6" alt="GitHub Profile Trophies" />
@@ -109,7 +110,7 @@ DevOps and Backend enthusiast focused on building robust, scalable web applicati
 
  
 
-## 📈 Activity Graph
+## Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishal82004&theme=react-dark&area=true&hide_border=true" alt="GitHub Activity Graph" />
