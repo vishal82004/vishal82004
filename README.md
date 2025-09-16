@@ -13,7 +13,7 @@ Welcome to my GitHub profile!
 ---
 
 ## About Me
-DevOps and Backend enthusiast focused on building robust, scalable web applications and automation workflows. I love learning new technologies and delivering impactful solutions that make a difference.
+DevOps enthusiast focused on building robust, scalable web applications and automation workflows. I love learning new technologies and delivering impactful solutions that make a difference.
 
 ---
 
