@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=00F7E2&center=true&vCenter=true&width=700&lines=DevOps+Backend+Engineer;Cloud+%7C+Automation+%7C+Observability;Building+robust+%26+scalable+systems;Always+Learning+New+Things" alt="Typing Intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=00F7E2&center=true&vCenter=true&width=700&lines=DevOps+Engineer;Cloud+%7C+Automation+%7C+Observability;Building+robust+%26+scalable+systems;Always+Learning+New+Things" alt="Typing Intro" />
 </p>
 
 <div align="center" style="font-family: 'Inter', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
