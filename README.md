@@ -10,7 +10,6 @@
 
 Welcome to my GitHub profile!
 
----
 
 ## 🚀 About Me
 DevOps and Backend enthusiast focused on building robust, scalable web applications and automation workflows. I love learning new technologies and delivering impactful solutions that make a difference.
@@ -24,14 +23,6 @@ DevOps and Backend enthusiast focused on building robust, scalable web applicati
 ![Tech Stack](https://skillicons.dev/icons?i=aws,azure,terraform,docker,kubernetes,ansible,linux,python,fastapi,bash,java,postgres,mysql,git,githubactions,jenkins,prometheus,grafana,vscode&theme=dark&perline=10)
 
 </div>
-
-<p align="center">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Cloud%20%26%20Infrastructure&lineCount=2&line1=AWS,Azure,Terraform,Docker,Kubernetes&line2=Ansible,Linux,Jenkins,ArgoCD,Prometheus&theme=github_dark&bg=0D1117&titleColor=58A6FF&lineColor=F85149" alt="Cloud & Infra" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Development%20%26%20Database&lineCount=2&line1=Python,FastAPI,Java,Bash&line2=PostgreSQL,MySQL,Git,VS%20Code&theme=github_dark&bg=0D1117&titleColor=58A6FF&lineColor=7C3AED" alt="Dev & DB" />
-</p>
 
 ---
 
@@ -76,13 +67,15 @@ DevOps and Backend enthusiast focused on building robust, scalable web applicati
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vishal-b-2029bb257/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20" alt="LinkedIn" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:balajivishalnivi@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20" alt="Gmail" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Gmail" height="30" width="40" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/vishal82004" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&logoWidth=20" alt="GitHub" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
   </a>
 </p>
 
