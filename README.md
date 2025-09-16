@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Vishal&fontAlign=50&fontAlignY=40&color=gradient&desc=DevOps%20%26%20Backend%20Engineer&descAlign=50&descAlignY=65&animation=twinkling" alt="Header" />
-</p>
+
 
 <p align="center">
   <img src="https://github.com/vishal82004.png" width="120" alt="Vishal Avatar" style="border-radius:50%" />
@@ -62,14 +60,35 @@ DevOps and Backend enthusiast focused on building robust, scalable web applicati
   <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure,terraform,docker,kubernetes,ansible,linux,python,fastapi,bash,java,postgres,mysql,git,githubactions,jenkins,argocd,vscode&theme=dark" alt="Skill Icons" />
+</p>
+
 ---
 
 ## 📂 Featured Repositories
 
-| Repository | Description |
-|------------|-------------|
-| [socialmedia-backend](https://github.com/vishal82004/socialmedia-backend) | Backend APIs for a social media application using FastAPI and MongoDB. |
-| [DevOps-Project-Zomato](https://github.com/vishal82004/DevOps-Project-Zomato) | DevOps pipeline and backend for a Zomato-like food delivery app, built with FastAPI, MongoDB, and full CI/CD with GitHub Actions. |
+<details>
+  <summary><strong>socialmedia-backend</strong></summary>
+  <p>
+    A scalable microservice for a social media backend, designed for containerized deployment and cloud infrastructure.
+    <br/><br/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+    <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+    <img src="https://img.shields.io/badge/Amazon_EKS-FF9900?style=for-the-badge&logo=amazon-eks&logoColor=white" alt="EKS" />
+    
+  </p>
+</details>
+
+<details>
+  <summary><strong>DevOps-Project-Zomato</strong></summary>
+  <p>
+    A production-grade, end-to-end CI/CD pipeline for a Zomato-like application, featuring automated builds, testing, and deployment, with integrated monitoring using Prometheus and Grafana.
+    <br/><br/>
+    <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+  </p>
+</details>
 
 ---
 
@@ -107,9 +126,7 @@ DevOps and Backend enthusiast focused on building robust, scalable web applicati
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer" />
-</p>
+
 
 ---
 
@@ -119,11 +136,7 @@ DevOps and Backend enthusiast focused on building robust, scalable web applicati
   <img src="https://github-profile-trophy.vercel.app/?username=vishal82004&theme=onedark&no-frame=true&no-bg=true&margin-w=6" alt="GitHub Profile Trophies" />
 </p>
 
-## 🧰 Tools at a Glance
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,terraform,docker,kubernetes,ansible,linux,python,fastapi,bash,java,postgres,mysql,git,githubactions,jenkins,argocd,vscode&theme=dark" alt="Skill Icons" />
-</p>
+ 
 
 ## 📈 Activity Graph
 
@@ -133,6 +146,4 @@ DevOps and Backend enthusiast focused on building robust, scalable web applicati
 
 ## 💬 Dev Quote
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</p>
+
