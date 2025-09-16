@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=00F7E2&center=true&vCenter=true&width=700&lines=DevOps+%26+Backend+Engineer;Cloud+%7C+Automation+%7C+Observability;Building+robust+%26+scalable+systems;Always+Learning+New+Things" alt="Typing Intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=00F7E2&center=true&vCenter=true&width=700&lines=DevOps+Backend+Engineer;Cloud+%7C+Automation+%7C+Observability;Building+robust+%26+scalable+systems;Always+Learning+New+Things" alt="Typing Intro" />
 </p>
 
 
@@ -80,7 +80,7 @@ DevOps enthusiast focused on building robust, scalable web applications and auto
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:balajivishalnivi@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40" />
+    <img src="<img width="512" height="512" alt="gmail" src="https://github.com/user-attachments/assets/a583e8dd-2209-442e-a299-8b4bd18cf4ae" />" alt="Gmail" height="30" width="40" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/vishal82004" target="_blank">
