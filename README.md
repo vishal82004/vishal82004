@@ -1,8 +1,6 @@
 
 
-<p align="center">
-  <img src="https://github.com/vishal82004.png" width="120" alt="Vishal Avatar" style="border-radius:50%" />
-</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7E2&center=true&vCenter=true&width=700&lines=DevOps+%26+Backend+Engineer;Cloud+%7C+Automation+%7C+Observability;Building+robust+%26+scalable+systems+%F0%9F%9A%80;Always+Learning+New+Things" alt="Typing Intro" />
@@ -26,7 +24,7 @@ DevOps and Backend enthusiast focused on building robust, scalable web applicati
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,terraform,docker,kubernetes,ansible,linux,python,fastapi,bash,java,postgres,mysql,git,githubactions,jenkins,argocd,vscode&theme=dark" alt="Skill Icons" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,terraform,docker,kubernetes,ansible,linux,python,fastapi,bash,java,postgres,mysql,git,githubactions,jenkins,argocd,vscode&theme=dark&perline=7" alt="Skill Icons" />
 </p>
 
 ---
@@ -74,9 +72,8 @@ DevOps and Backend enthusiast focused on building robust, scalable web applicati
   <a href="https://www.linkedin.com/in/vishal-b-2029bb257/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  </a>
   <a href="mailto:balajivishalnivi@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
 
