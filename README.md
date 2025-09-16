@@ -29,37 +29,45 @@ DevOps and Backend enthusiast focused on building robust, scalable web applicati
 ## 📂 Featured Repositories
 
 <details>
-  <summary><strong>socialmedia-backend</strong></summary>
-  <p>
-    A scalable microservice for a social media backend, designed for containerized deployment and cloud infrastructure.
-    <br/><br/>
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-    <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
-    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-    <img src="https://img.shields.io/badge/Amazon_EKS-FF9900?style=for-the-badge&logo=amazon-eks&logoColor=white" alt="EKS" />
-    
-  </p>
+  <summary><strong>🔥 socialmedia-backend</strong></summary>
+  <div align="center">
+    <p>A scalable microservice for a social media backend, designed for containerized deployment and cloud infrastructure.</p>
+    <br/>
+    <img src="https://skillicons.dev/icons?i=docker,terraform,kubernetes,aws&theme=dark" alt="Technologies" />
+  </div>
 </details>
 
 <details>
-  <summary><strong>DevOps-Project-Zomato</strong></summary>
-  <p>
-    A production-grade, end-to-end CI/CD pipeline for a Zomato-like application, featuring automated builds, testing, and deployment, with integrated monitoring using Prometheus and Grafana.
-    <br/><br/>
-    <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
-  </p>
+  <summary><strong>🚀 DevOps-Project-Zomato</strong></summary>
+  <div align="center">
+    <p>A production-grade, end-to-end CI/CD pipeline for a Zomato-like application, featuring automated builds, testing, and deployment, with integrated monitoring using Prometheus and Grafana.</p>
+    <br/>
+    <img src="https://skillicons.dev/icons?i=githubactions,jenkins,prometheus,grafana&theme=dark" alt="Technologies" />
+  </div>
 </details>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=vishal82004&style=flat-square&color=blue" alt="Profile Views" />
-  <img src="https://github-readme-stats.vercel.app/api?username=vishal82004&show_icons=true&theme=radical" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishal82004&theme=radical" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal82004&layout=compact&theme=radical" height="170" />
-</p>
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=vishal82004&style=for-the-badge&color=blueviolet)
+
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vishal82004&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishal82004&theme=tokyonight&hide_border=true&border_radius=10" height="180" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal82004&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="180" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishal82004&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
+</div>
 
 ---
 
@@ -71,7 +79,7 @@ DevOps and Backend enthusiast focused on building robust, scalable web applicati
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:balajivishalnivi@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Gmail" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/vishal82004" target="_blank">
