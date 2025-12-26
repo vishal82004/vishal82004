@@ -8,17 +8,6 @@
 
 <p style="font-size: 1.1rem; color: #8b949e; margin-bottom: 1rem;">DevOps Engineer • Cloud • Automation • Observability</p>
 
-<p>
-  <a href="https://www.linkedin.com/in/vishal-b-2029bb257/" target="_blank">
-    <img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="mailto:balajivishalnivi@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://github.com/vishal82004" target="_blank">
-    <img src="https://img.shields.io/badge/Follow-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
 
 </div>
 
