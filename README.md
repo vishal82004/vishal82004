@@ -134,9 +134,6 @@ DevOps enthusiast focused on building robust, scalable web applications and auto
     <img src="https://github.com/user-attachments/assets/a583e8dd-2209-442e-a299-8b4bd18cf4ae" alt="Gmail" height="30" width="30" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/vishal82004" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
-  </a>
 </p>
 
 ---
@@ -152,12 +149,4 @@ DevOps enthusiast focused on building robust, scalable web applications and auto
 
 </div>
 
----
 
-<div style="font-family: 'Inter', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-
-<h2 style="color: #58a6ff; font-size: 1.8rem; margin-bottom: 1rem; text-align: center;">🏆 GitHub Profile Trophies</h2>
-
-</div>
-
-![GitHub Profile Trophies](https://github-profile-trophy.vercel.app/?username=vishal82004&theme=onedark&no-frame=true&no-bg=true&margin-w=6&cache_seconds=86400)
