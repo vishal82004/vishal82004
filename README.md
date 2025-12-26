@@ -51,7 +51,7 @@ DevOps enthusiast focused on building robust, scalable web applications and auto
 <h2 style="color: #58a6ff; font-size: 1.8rem; margin-bottom: 1rem;">Open Source Contributions</h2>
 
 <ul style="color: #c9d1d9; line-height: 1.7; font-size: 1rem;">
-  <li><strong style="color: #f85149;">terraform-aws-modules/terraform-aws-ecs</strong> — Fixed failing <code>examples/fargate</code> and <code>examples/complete</code> workloads by switching FireLens output from <code>firehose</code> to <code>stdout</code>, swapping the <code>Name</code> parameter, removing invalid Firehose args, and validating with <code>terraform validate</code> to prevent sidecar crashes. <a href="[REPLACE_WITH_PR_LINK](https://github.com/terraform-aws-modules/terraform-aws-ecs/pull/386)" target="_blank">PR link</a></li>
+  <li><strong style="color: #f85149;">terraform-aws-modules/terraform-aws-ecs</strong> — Fixed failing <code>examples/fargate</code> and <code>examples/complete</code> workloads by switching FireLens output from <code>firehose</code> to <code>stdout</code>, swapping the <code>Name</code> parameter, removing invalid Firehose args, and validating with <code>terraform validate</code> to prevent sidecar crashes. <a href="https://github.com/terraform-aws-modules/terraform-aws-ecs/pull/386" target="_blank">PR link</a></li>
 </ul>
 
 </div>
