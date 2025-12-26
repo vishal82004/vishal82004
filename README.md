@@ -48,9 +48,7 @@ DevOps enthusiast focused on building robust, scalable web applications and auto
 
 <div style="font-family: 'Inter', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
 
-<h2 style="color: #58a6ff; font-size: 1.8rem; margin-bottom: 1rem;">🧩 Recent Open Source Contributions</h2>
-
-<p style="color: #8b949e; margin-bottom: 0.5rem;">Highlights from recent PRs & issues I've contributed to:</p>
+<h2 style="color: #58a6ff; font-size: 1.8rem; margin-bottom: 1rem;">Open Source Contributions</h2>
 
 <ul style="color: #c9d1d9; line-height: 1.7; font-size: 1rem;">
   <li><strong style="color: #f85149;">terraform-aws-modules/terraform-aws-ecs</strong> — Fixed failing <code>examples/fargate</code> and <code>examples/complete</code> workloads by switching FireLens output from <code>firehose</code> to <code>stdout</code>, swapping the <code>Name</code> parameter, removing invalid Firehose args, and validating with <code>terraform validate</code> to prevent sidecar crashes. <a href="REPLACE_WITH_PR_LINK" target="_blank">PR link</a></li>
