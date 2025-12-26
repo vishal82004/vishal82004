@@ -1,14 +1,24 @@
-
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=00F7E2&center=true&vCenter=true&width=700&lines=DevOps+Engineer;Cloud+%7C+Automation+%7C+Observability;Building+robust+%26+scalable+systems;Always+Learning+New+Things" alt="Typing Intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=00F7E2&center=true&vCenter=true&width=700&lines=DevOps+Engineer;Cloud+%7C+Automation+%7C+Observability;FastAPI+%7C+Kubernetes+%7C+Terraform+%7C+AWS+%7C+Azure" alt="Typing SVG" />
 </p>
 
 <div align="center" style="font-family: 'Inter', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
 
 <h1 style="color: #00F7E2; font-size: 2.5rem; margin-bottom: 0.5rem;">Hello, I'm Vishal</h1>
 
-<p style="font-size: 1.1rem; color: #8b949e; margin-bottom: 2rem;">Welcome to my GitHub profile!</p>
+<p style="font-size: 1.1rem; color: #8b949e; margin-bottom: 1rem;">DevOps Engineer • Cloud • Automation • Observability</p>
+
+<p>
+  <a href="https://www.linkedin.com/in/vishal-b-2029bb257/" target="_blank">
+    <img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:balajivishalnivi@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/vishal82004" target="_blank">
+    <img src="https://img.shields.io/badge/Follow-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 </div>
 
@@ -22,6 +32,13 @@
 DevOps enthusiast focused on building robust, scalable web applications and automation workflows. I love learning new technologies and delivering impactful solutions that make a difference.
 </p>
 
+<ul style="color: #c9d1d9; line-height: 1.7; font-size: 1rem;">
+  <li>🔧 Automating CI/CD pipelines end to end (build, test, deploy, observe)</li>
+  <li>☁️ Designing cloud-native architectures on AWS & Azure</li>
+  <li>📈 Instrumenting services for observability (metrics, logs, traces)</li>
+  <li>🤝 Open to collaborations and freelance opportunities</li>
+</ul>
+
 </div>
 
 ---
@@ -34,7 +51,21 @@ DevOps enthusiast focused on building robust, scalable web applications and auto
 
 <div align="center">
   
-![Tech Stack](https://skillicons.dev/icons?i=aws,azure,terraform,docker,kubernetes,ansible,linux,python,fastapi,bash,java,postgres,mysql,git,githubactions,jenkins,prometheus,grafana,vscode&theme=dark&perline=10)
+![Tech Stack](https://skillicons.dev/icons?i=aws,azure,terraform,docker,kubernetes,ansible,linux,python,fastapi,bash,java,postgres,mysql,git,githubactions,jenkins,prometheus,grafana,vscode&theme=dark)
+
+</div>
+
+---
+
+<div style="font-family: 'Inter', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+
+<h2 style="color: #58a6ff; font-size: 1.8rem; margin-bottom: 1rem;">🧩 Recent Open Source Contributions</h2>
+
+<p style="color: #8b949e; margin-bottom: 0.5rem;">Highlights from recent PRs & issues I've contributed to:</p>
+
+<ul style="color: #c9d1d9; line-height: 1.7; font-size: 1rem;">
+  <li><strong style="color: #f85149;">terraform-aws-modules/terraform-aws-ecs</strong> — Fixed failing <code>examples/fargate</code> and <code>examples/complete</code> workloads by switching FireLens output from <code>firehose</code> to <code>stdout</code>, swapping the <code>Name</code> parameter, removing invalid Firehose args, and validating with <code>terraform validate</code> to prevent sidecar crashes. <a href="REPLACE_WITH_PR_LINK" target="_blank">PR link</a></li>
+</ul>
 
 </div>
 
@@ -46,6 +77,16 @@ DevOps enthusiast focused on building robust, scalable web applications and auto
 
 </div>
 
+<details style="font-family: 'Inter', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;" open>
+  <summary><strong style="color: #f85149; font-size: 1.1rem;">▶ terraform-aws-modules/terraform-aws-ecs (Contribution)</strong></summary>
+  <div align="center" style="padding: 1rem; background: #0d1117; border-radius: 8px; margin: 0.5rem 0;">
+    <p style="color: #c9d1d9; line-height: 1.5; margin-bottom: 0.75rem;">
+      Resolved FireLens log shipping failures in module examples by moving output to stdout, cleaning invalid Firehose args, and validating configs to keep ECS sidecars healthy.
+    </p>
+    <a href="REPLACE_WITH_PR_LINK" target="_blank" style="color: #58a6ff;">View PR</a>
+  </div>
+</details>
+
 <details style="font-family: 'Inter', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
   <summary><strong style="color: #f85149; font-size: 1.1rem;">▶ socialmedia-backend</strong></summary>
   <div align="center" style="padding: 1rem; background: #0d1117; border-radius: 8px; margin: 0.5rem 0;">
@@ -56,8 +97,8 @@ DevOps enthusiast focused on building robust, scalable web applications and auto
 
 <details style="font-family: 'Inter', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
   <summary><strong style="color: #f85149; font-size: 1.1rem;">▶ DevOps-Project-Zomato</strong></summary>
-  <div align="center" style="padding: 1rem; background: #0d1117; border-radius: 8px; margin: 0.5rem 0;">
-    <p style="color: #c9d1d9; line-height: 1.5; margin-bottom: 1rem;">A production-grade, end-to-end CI/CD pipeline for a Zomato-like application, featuring automated builds, testing, and deployment, with integrated monitoring using Prometheus and Grafana.</p>
+  <div align="center" style="padding: 1rem; background: #0d1117; border-radius: 8px; margin: 0.5rem 0%;">
+    <p style="color: #c9d1d9; line-height: 1.5; margin-bottom: 1rem;">A production-grade, end-to-end CI/CD pipeline for a Zomato-like application, featuring automated builds, testing, and deployment, with full observability.</p>
     <img src="https://skillicons.dev/icons?i=githubactions,jenkins,prometheus,grafana&theme=dark" alt="Technologies" />
   </div>
 </details>
@@ -127,10 +168,6 @@ DevOps enthusiast focused on building robust, scalable web applications and auto
 
 ---
 
-
-
----
-
 <div style="font-family: 'Inter', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
 
 <h2 style="color: #58a6ff; font-size: 1.8rem; margin-bottom: 1rem; text-align: center;">🏆 GitHub Profile Trophies</h2>
@@ -140,9 +177,3 @@ DevOps enthusiast focused on building robust, scalable web applications and auto
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=vishal82004&theme=onedark&no-frame=true&no-bg=true&margin-w=6" alt="GitHub Profile Trophies" />
 </p>
-
- 
-
-
-
-
