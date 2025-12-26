@@ -25,7 +25,7 @@ DevOps enthusiast focused on building robust, scalable web applications and auto
   <li>🔧 Automating CI/CD pipelines end to end (build, test, deploy, observe)</li>
   <li>☁️ Designing cloud-native architectures on AWS & Azure</li>
   <li>📈 Instrumenting services for observability (metrics, logs, traces)</li>
-  <li>🤝 Open to collaborations and freelance opportunities</li>
+  <li>🤝 Open to freelance opportunities</li>
 </ul>
 
 </div>
@@ -148,7 +148,6 @@ DevOps enthusiast focused on building robust, scalable web applications and auto
 <ul style="color: #c9d1d9; line-height: 1.8; font-size: 1rem;">
   <li><strong style="color: #f85149;">Currently working on:</strong> FastAPI, DevOps, and cloud infrastructure projects.</li>
   <li><strong style="color: #f85149;">Always learning:</strong> Kubernetes, cloud-native tooling, observability, and automation.</li>
-  <li><strong style="color: #f85149;">Open to:</strong> collaborations and freelance opportunities.</li>
 </ul>
 
 </div>
@@ -161,6 +160,4 @@ DevOps enthusiast focused on building robust, scalable web applications and auto
 
 </div>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vishal82004&theme=onedark&no-frame=true&no-bg=true&margin-w=6" alt="GitHub Profile Trophies" />
-</p>
+![GitHub Profile Trophies](https://github-profile-trophy.vercel.app/?username=vishal82004&theme=onedark&no-frame=true&no-bg=true&margin-w=6&cache_seconds=86400)
